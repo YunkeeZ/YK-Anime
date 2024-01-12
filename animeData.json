@@ -1,0 +1,12 @@
+
+[
+    {
+        "title": "Attack on Titan",
+        "synopsis": "In a world where humanity resides within enormous walled cities to protect themselves from Titans..."
+    },
+    {
+        "title": "My Hero Academia",
+        "synopsis": "In a world where almost every human has superpowers known as 'Quirks'..."
+    }
+    // ... more anime data
+]
